@@ -10,7 +10,7 @@ Ce tableau dresse un comparatif de 5 solutions mobiles à OpenStreetMap sur le p
 
 Le fabuleux outil **StreetComplete** n'est pas répertorié dans ce tableau car il ne permet pas d'ajouter des noeuds📌 ni des chemins〰 à la carte, mais seulement de les qualifier (et il le fait excellement bien.)
 
-## Comparatif
+## 🍱Comparatif
 
 | **Appli**                                                    | Vespucci                                          | EveryDoor                               | OSMGo                                                        | OSMAnd                                                       | **Organic** Maps                                             |
 | ------------------------------------------------------------ | ------------------------------------------------- | --------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -31,7 +31,7 @@ Le fabuleux outil **StreetComplete** n'est pas répertorié dans ce tableau car 
 | 🗺Fonds de CARTES                                             | ⭐⭐⭐⭐⭐                                             | ⭐                                       | ⭐⭐⭐                                                          | ⭐⭐⭐⭐⭐                                                        | ⭐                                                            |
 | ⚠Remarques                                                   | Beaucoup de fonds dispos + ajout de fonds par URL | OSM Standard<br />Photo Aérienne Mapbox | > 20 fonds                                                   | `Source de la carte > Ajouter plus > Microsoft Maps, Mapillary, Yandex, Geovelo, etc...`  <br /><br />`Source de la carte > Ajouter manuellement` | OSM (Randonnée / Terrain / Métro)                            |
 | <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Mapillary_logo.svg/240px-Mapillary_logo.svg.png width=25px>Photos MAPILLARY | ✔                                                 | ❌                                       | ❌                                                            | ✔                                                            | ❌                                                            |
-| <img src=https://raw.githubusercontent.com/jancelin/docs-centipedeRTK/master/assets/images/index/centipede_petit.png width=30px>Connectivité RTK | à tester                                          | à tester                                | ❌                                                            | à tester                                                     | à tester                                                     |
+| <img src=https://raw.githubusercontent.com/jancelin/docs-centipedeRTK/master/assets/images/index/centipede_petit.png width=30px>Connectivité RTK | à tester                                          | à tester                                | ❌ ([*](https://forum.openstreetmap.fr/t/rtk-et-application-mobile-osm-go/26011/7?u=datagistips)) | à tester                                                     | à tester                                                     |
 
 ✒**Conclusion**
 
@@ -41,7 +41,7 @@ Le fabuleux outil **StreetComplete** n'est pas répertorié dans ce tableau car 
 
 - Enfin, *OSMAnd* et *Organic Maps* sont à ranger davantage du côté des applications orientées vers la **consultation**. Elles permettent aussi de contribuer mais cela n'est leur fonctionnalité principale. S'il s'agit de contribuer via une de ces applications, je conseillerais davantage *OSMAnd* car il permet d'accéder à Mapillary et de renseigner tous les tags que l'on souhaite.
 
-## Ecrans de saisie
+## 👆Ecrans de saisie
 
 Ici, nous illustrons les écrans de saisie personnalisés des applis EveryDoor, OSMGo, Vespucci, Organic Maps et OSMAnd pour les objets :
 
@@ -51,64 +51,89 @@ Ici, nous illustrons les écrans de saisie personnalisés des applis EveryDoor, 
 
 ### 🏚Abri
 
-#### EveryDoor
+#### 1️⃣EveryDoor
 
-![](images/everydoor-abri.png)
+<img src=images/everydoor-abri.png width=30% align=center>
 
-#### OSMGo
+L'ergonomie est particulièrement conviviale avec les boutons radio qu'il suffit d'appuyer pour renseigner les valeurs.
 
-![](images/osmgo-abri.png)
+#### 2️⃣OSMGo
 
-#### Vespucci
+<img src=images/osmgo-abri.png width=30% align=center>
 
-![](images/vespucci-abri.png)
+#### 3️⃣Vespucci
 
-#### Organic Maps
+<img src=images/vespucci-abri.png width=30% align=center>
 
-![](images/organic-abri.png)
+Il y a peu d'éléments dans le formulaire comparé aux autres applis, mais heureusement, un mode avancé permet de renseigner les tags que l'on veut.
 
-#### OSMAnd
-![](images/osmand-abri.png)
+#### 4️⃣Organic Maps
+
+<img src=images/organic-abri.png width=30% align=center>
+
+#### 5️⃣OSMAnd
+
+<img src=images/osmand-abri.png width=30% align=center>
 Le même formulaire est présenté quels que soient les objjets
 
 
 ### 🪑Banc
 
-#### EveryDoor
+#### 1️⃣EveryDoor
 
-![](images/everydoor-banc.png)
+<img src=images/everydoor-banc.png width=30% align=center>
 
-#### OSMGo
+Là encore, le formulaire est plutôt bien réalisé ! 😊
 
-![](images/osmgo-banc.png)
+#### 2️⃣OSMGo
 
-#### Vespucci
+<img src=images/osmgo-banc.png width=30% align=center>
 
-![](images/vespucci-banc.png)
+Le formulaire est assez complet, mais je le trouve moins sympa qu'EveryDoor.
 
-#### Organic Maps
+#### 3️⃣Vespucci
 
-![](images/organic-banc.png)
+<img src=images/vespucci-banc.png width=30% align=center>
 
-#### OSMAnd
+Pas mal !
+
+#### 4️⃣Organic Maps
+
+<img src=images/organic-banc.png width=30% align=center>
+
+Il y a peu d'informations.
+
+#### 5️⃣OSMAnd
+
 Voir le formulaire "Abri" car le même formulaire est présenté quels que soient les objets
 
 
 
 ### 🧯Borne à incendie
 
-#### EveryDoor
+#### 1️⃣EveryDoor
+<img src=images/everydoor-incendie.png width=30% align=center>
 
-![](images/everydoor-incendie.png)
+EveryDoor s'avère là encore très complet.
 
-#### OSMGo
+#### 2️⃣OSMGo
 
-![](images/osmgo-incendie.png)
+<img src=images/osmgo-incendie.png width=30% align=center>
 
-#### Vespucci
+OSMGo est dans la course également 🏎
 
-![](images/vespucci-incendie.png)
+#### 3️⃣Vespucci
 
-#### Organic Maps
+<img src=images/vespucci-incendie.png width=30% align=center>
 
-![](images/organic-incendie.png)
+Gros effort de Vespucci sur cet objet ! 🏆
+
+#### 4️⃣Organic Maps
+
+<img src=images/organic-incendie.png width=30% align=center>
+
+Organic Maps est encore là assez léger, mais c'est une appli ouverte, libre, qui concentre l'essentiel, très fonctionnelle pour la consultation d'informations 😉
+
+#### 5️⃣OSMAnd
+
+Voir le formulaire "Abri" car le même formulaire est présenté quels que soient les objets
